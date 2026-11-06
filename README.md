@@ -1,16 +1,35 @@
-## Hi there 👋
+Olá! Eu sou Jair Veloso 👋
 
-<!--
-**jairveloso/jairveloso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor em formação
 
-Here are some ideas to get you started:
+Sou estudante de Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul Educacional, interessado em tecnologia, desenvolvimento de software e criação de soluções digitais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou no início da minha jornada na programação, buscando desenvolver minhas habilidades técnicas por meio dos estudos e de projetos práticos.
+
+🎓 Formação
+
+- Instituição: Cruzeiro do Sul Educacional
+- Curso: Técnico em Análise e Desenvolvimento de Sistemas
+- Status: Em andamento
+
+💻 Interesses
+
+- Desenvolvimento de software
+- Programação e lógica computacional
+- Desenvolvimento de jogos
+- Automação e tecnologia
+- Banco de dados
+
+🚀 Objetivos
+
+- Construir projetos próprios.
+- Desenvolver boas práticas de programação.
+- Aprender novas tecnologias.
+- Evoluir como desenvolvedor e contribuir com projetos reais.
+
+📌 Projetos
+
+Estou organizando este espaço para compartilhar meus projetos, estudos e minha evolução na área de tecnologia.
+
+
+⭐ Obrigado pela visita ao meu perfil!
